@@ -1,0 +1,39 @@
+body{
+    background-image:url(bg.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.first{
+    color: #A66073;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 75px;
+    margin: 0px;
+    font-weight: 400;
+
+}
+.second{
+    color: #A66073;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 0px;
+    margin-bottom: 20px;
+
+}
+
+a:hover{
+    background-color: #A66073;
+}
+a{
+    background-color: #025949;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+div{
+    padding-left: 750px;
+    margin-top: 70px;
+}
