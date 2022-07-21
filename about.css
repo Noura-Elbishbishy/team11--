@@ -1,0 +1,31 @@
+hr{
+    color :#A66073;
+}
+
+.pet{
+    color: #A66073;
+    font-size: 48PX;
+    
+    background-color: #9CD9D3;
+   }
+   *{margin: 0;
+    padding: 0;
+
+}
+.FONT{
+    position: relative;
+    top: 400px;
+    color: #A66073;
+  background-color: #9CD9D3;
+     top: 150px;
+     height: 150px;
+     border-top: 2px solid black;
+   }
+   .why{
+    font-family: serif;
+    font-weight: bolder;
+    font-size: large;
+    }
+    .pp{
+            font-size: 48PX;
+            color: #A66073 ;}
